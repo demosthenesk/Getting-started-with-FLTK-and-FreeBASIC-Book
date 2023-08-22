@@ -1,0 +1,21 @@
+﻿[Project]
+ProjectName=text
+Type=1
+MainFile=text
+PassOneFile=OFF
+TargetName=
+FocusOn=
+CompilerArgs=
+CompilerOption=-l Xrender -l Xcursor -l Xfixes -l Xext -l Xft -l fontconfig -l Xinerama -l pthread -l m -l X11 -l png -l z -l jpeg
+Comment=
+CompilerPath=/home/user/Bin/FreeBASIC/FreeBASIC-1.10.0-source/bin/fbc
+[IncludeDirs]
+name=/home/user/Bin/FreeBASIC/FreeBASIC-1.10.0-source/inc
+[LibDirs]
+name=/home/user/Bin/FreeBASIC/FreeBASIC-1.10.0-source/lib/freebasic/linux-x86_64
+[Sources]
+name=text.bas
+[Includes]
+[Others]
+[Misc]
+[Focus]
